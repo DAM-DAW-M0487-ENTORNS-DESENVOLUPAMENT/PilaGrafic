@@ -8,7 +8,10 @@ namespace PilaGraficWF
 {
     internal static class Compilador
     {
+        public bool Validar(string expressio)
+        {
 
+        }
 
         private string RutaArxiu()
         {
