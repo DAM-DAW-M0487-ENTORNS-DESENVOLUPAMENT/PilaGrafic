@@ -10,7 +10,7 @@ namespace PilaGraficWF
     {
         public bool Validar(string expressio)
         {
-
+            ///
         }
 
         private string RutaArxiu()
